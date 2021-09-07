@@ -12,7 +12,7 @@ IDEA
 
 
 
-Project Demo https://bit.ly/3yUgFdw :octocat:
+Project Demo https://www.linkedin.com/posts/randrita-sarkar-8690591a1_mediapipe-cvzone-python-activity-6840968295701651456-1-NZ :octocat:
 <p>Help is taken from CVZone Team.<p>
 <p><b>Give it a STAR if you really appreciate my work</b> &#127775; </p>
 
