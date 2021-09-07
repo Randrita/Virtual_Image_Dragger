@@ -20,8 +20,11 @@ CONNECT WITH ME
 ---
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Randrita-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/randrita-sarkar-8690591a1/) 
 <img src="https://badges.pufler.dev/visits/Randrita/Virtual_Image_Dragger?style=flat-square&color=black&logo=github">
+<br>
+
+
 THANK YOU :tada:
---------------------------------
+-----------
 <p align="center"  >
     <meta charset="UTF-8">
     <i> “Make it work, make it right, make it fast.” &#128151 </i>
