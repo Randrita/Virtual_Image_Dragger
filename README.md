@@ -13,7 +13,8 @@ IDEA
 
 
 Project Demo https://bit.ly/3yUgFdw :octocat:
-Help is taken from CVZone Team.
+<p>Help is taken from CVZone Team.<p>
+<p><b>Give it a STAR if you really appreciate my work</b> &#127775; </p>
 
 CONNECT WITH ME
 ---
